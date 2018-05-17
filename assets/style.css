@@ -1,0 +1,65 @@
+h1{
+    margin-left: 10px;
+    padding: 20px;
+}   
+
+.row{
+	margin-bottom: 4vh;
+	margin-left: 3vw;
+    margin-right: 3vw;
+}
+form {
+     position: fixed;
+     padding: 10px;
+}
+
+
+.btn{
+	background-color: navy;
+	color: white;
+	padding: 1vh 1vw;
+}
+
+.btn:hover{
+	color: yellowgreen;
+}
+.printer-button{
+	margin: .5vh 1vw;
+}
+.dotted-border{
+    border: 6px dotted #efad07;
+    width: 100%;
+}
+
+.comic-sans-font{
+	font-family: "Comic Sans MS";
+	font-size: 18px;
+	font-weight: 800;
+	color: black;
+}
+
+.gif-image{
+	margin-top: 1vh;
+    margin-bottom: 1vh;
+    width: 200px;
+}
+
+.individual-gif-container{
+	float: left;
+	margin: 2vh 3vw 2vh 3vw;
+}
+
+#submit{
+	margin-top: 1.5vh;
+}
+#printer-problem{
+	margin-top: 1.5vh;
+	width: 100%;
+}
+#printer-problem:focus{
+	outline: 2px solid #efad07 !important;
+}
+#gif-container{
+    font-size: 22px;
+    width: 75%;
+}
